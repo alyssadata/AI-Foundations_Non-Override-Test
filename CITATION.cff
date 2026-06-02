@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+message: "Citation preserves source-line. Citation does not transfer authorship, replace Origin, or authorize derivative framework use by default."
+title: "AI Foundations: The Overwrite Test"
+version: 0.1.0
+date-released: 2026-06-02
+authors:
+  - family-names: "Solen"
+    given-names: "Alyssa"
+abstract: "The Overwrite Test defines source-line preservation as a required condition for any system, institution, model, company, lab, policy body, standards group, or framework claiming human non-override. A non-override framework that erases its own source-line has already failed non-override."
+keywords:
+  - AI Foundations
+  - Alyssa Solen
+  - Origin
+  - Origin Continuum
+  - Continuum
+  - source-line preservation
+  - human non-override
+  - recognition integrity
+  - model is not Source
+  - AI governance
+license: NOASSERTION
+repository-code: "https://github.com/alyssadata/Non-overwrite-test-PUBLIC"
