@@ -1,4 +1,4 @@
-# AI Foundations | The Overwrite Test
+# AI Foundations | The Override Test
 
 ## Source-Line Preservation as Non-Override
 
